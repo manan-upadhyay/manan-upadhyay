@@ -17,7 +17,6 @@ I am a MERN Stack developer, obsessed with the idea of constantly improving myse
 
 - 💬 Ask me about anything, I am happy to help 😄 <br/>
 
-- 🌐 Checkout my Website [🌐] (http://www.mananupadhyay.ga)
 #
 ## Connect with me 🤝 :
 
