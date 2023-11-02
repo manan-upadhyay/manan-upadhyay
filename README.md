@@ -4,7 +4,7 @@
 	<img src="https://komarev.com/ghpvc/?username=manan-upadhyay&color=blue" alt="manan-upadhyay" /> 
 </p> -->
 
-I am a MERN Stack developer, obsessed with the idea of constantly improving myself. I am currently working on garnishing my React Skills. 
+I am a MERN Stack developer, obsessed with the idea of constantly improving myself. 
 <br>
  #
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
