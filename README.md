@@ -1,29 +1,45 @@
 # Manan Upadhyay
 
-Senior Full Stack Developer with 4+ years of experience designing and delivering
-scalable, production-grade web applications.
+Senior Full Stack Developer | AI-Augmented Engineer
 
-I specialize in **React, Next.js, Node.js, Express.js, Nest.js, TypeScript**, and modern system design
-with a strong focus on **architecture, performance optimization, caching, and
-maintainable codebases**.
+I am a Senior Full Stack Developer with 4+ years of experience designing and
+delivering scalable, production-grade web applications.
+
+My primary expertise lies in **React, Next.js, Node.js, TypeScript**, and
+modern system design with a strong focus on **architecture, performance
+optimization, caching strategies, and maintainable codebases**.
 
 I work as an **AI-augmented engineer**, using advanced AI agents
 (GPT-5.2, Claude Sonnet 4.5, Claude Opus 4.5, Gemini) to accelerate development,
-refactor complex logic, validate edge cases, and keep technical documentation
-aligned with code — while retaining full ownership of engineering decisions
-and production reliability.
+refactor complex logic, validate edge cases, and generate technical
+documentation — while retaining full ownership of engineering decisions and
+production reliability.
 
 ---
 
 ## What I focus on
 
-- Frontend architecture (React, Next.js, component-driven systems)
-- Backend APIs (Node.js, Express, Nest, REST, authentication, RBAC)
-- Performance optimization (React Query, caching, memoization, code-splitting)
-- Database design & query optimization (MongoDB, PostgreSQL)
+- Frontend architecture (component-driven, scalable UI systems)
+- Backend APIs (Node.js, REST, authentication, RBAC)
+- Performance optimization (React Query, caching, memoization, code splitting)
+- Database design and query optimization (MongoDB, PostgreSQL)
 - Image optimization and Core Web Vitals
-- Clean, well-documented, production-ready code
+- Clean, readable, well-documented code
 - AI-assisted development and documentation (used responsibly)
+
+---
+
+## About the repositories here
+
+Most repositories in this profile are **personal or exploratory projects**.
+Due to working in a service-based organization, **production client projects
+cannot be open-sourced**.
+
+These repositories are intended to demonstrate:
+- Engineering approach and structure
+- Code organization and readability
+- Architectural thinking and trade-offs
+- Frontend and backend patterns used in real-world systems
 
 ---
 
@@ -34,13 +50,13 @@ and production reliability.
 - Tailwind CSS, Material UI, ShadCN
 
 **Backend**
-- Node.js, Express, Nest.js, REST APIs
-- JWT, RBAC, authentication flows
+- Node.js, Express, Nest.js
+- REST APIs, JWT, RBAC
 
 **Databases**
 - MongoDB, PostgreSQL, MySQL
 
-**Dev & Tooling**
+**Tooling**
 - Git, GitHub Actions, CI/CD
 - ESLint, Cypress, Storybook
 - Cursor, AntiGravity, AI agents
@@ -52,4 +68,4 @@ and production reliability.
 - LinkedIn: https://www.linkedin.com/in/mananupadhyay01/
 - Email: upadhyaymanan01@gmail.com
 
-I’m open to **remote senior full stack roles and high-impact contract work**.
+Open to **remote senior full stack roles and high-impact contract work**.
