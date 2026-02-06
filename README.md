@@ -1,34 +1,55 @@
-# Hey there. I am [Manan Upadhyay](https://github.com/manan-upadhyay) 👋
+# Manan Upadhyay
 
-<!-- <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=manan-upadhyay&color=blue" alt="manan-upadhyay" /> 
-</p> -->
+Senior Full Stack Developer with 4+ years of experience designing and delivering
+scalable, production-grade web applications.
 
-I am a MERN Stack developer, obsessed with the idea of constantly improving myself. 
-<br>
- #
-<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+I specialize in **React, Next.js, Node.js, Express.js, Nest.js, TypeScript**, and modern system design
+with a strong focus on **architecture, performance optimization, caching, and
+maintainable codebases**.
 
-- 🔭 I’m currently working on MERN Stack <br/>
+I work as an **AI-augmented engineer**, using advanced AI agents
+(GPT-5.2, Claude Sonnet 4.5, Claude Opus 4.5, Gemini) to accelerate development,
+refactor complex logic, validate edge cases, and keep technical documentation
+aligned with code — while retaining full ownership of engineering decisions
+and production reliability.
 
-- 📈 Highly passionate about creating Dynamic Web Applications 🕸 <br/>
+---
 
-- 🤓 I’m looking to collaborate with React <img height="15px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> projects. <br/>
+## What I focus on
 
-- 💬 Ask me about anything, I am happy to help 😄 <br/>
+- Frontend architecture (React, Next.js, component-driven systems)
+- Backend APIs (Node.js, Express, Nest, REST, authentication, RBAC)
+- Performance optimization (React Query, caching, memoization, code-splitting)
+- Database design & query optimization (MongoDB, PostgreSQL)
+- Image optimization and Core Web Vitals
+- Clean, well-documented, production-ready code
+- AI-assisted development and documentation (used responsibly)
 
-#
-## Connect with me 🤝 :
+---
 
+## Tech Stack
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/mananupadhyay01/)
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />](https://www.instagram.com/manan_the_assassin)
-[<img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30px">](mailto:upadhyaymanan01@gmail.com)
-<br>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=manan-upadhyay&show_icons=true" alt="manan-upadhyay" width="50%"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-upadhyay&layout=compact" alt="manan-upadhyay" align="right" width="40%"/> </p>
+**Frontend**
+- React, Next.js, Redux Toolkit, React Query
+- Tailwind CSS, Material UI, ShadCN
 
+**Backend**
+- Node.js, Express, Nest.js, REST APIs
+- JWT, RBAC, authentication flows
 
-<p align="center">
-<h6 align="center">Show some ❤️ by starring some of the <a href="https://github.com/manan-upadhyay?tab=repositories"> repositories!</a></h6>
-</p>
+**Databases**
+- MongoDB, PostgreSQL, MySQL
+
+**Dev & Tooling**
+- Git, GitHub Actions, CI/CD
+- ESLint, Cypress, Storybook
+- Cursor, AntiGravity, AI agents
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/mananupadhyay01/
+- Email: upadhyaymanan01@gmail.com
+
+I’m open to **remote senior full stack roles and high-impact contract work**.
