@@ -40,7 +40,7 @@ Cloudflare R2 · Cloudinary · Vercel · GitHub Actions
 
 ## Selected Work
 
-### Personal Portfolio Website
+### [Personal Portfolio Website](https://github.com/manan-upadhyay/portfolio)
 
 A cinematic, responsive developer portfolio built to present my work, skills, and engineering identity through a polished visual experience.
 
